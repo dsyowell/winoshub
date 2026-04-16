@@ -1,4 +1,4 @@
-# PowerShell script repository for sysadmins
+# Windows OS Hub - PowerShell scripts for Sysadmins
 
 
 This repository contains PowerShell scripts for system administrators that focus on: 
